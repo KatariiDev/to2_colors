@@ -117,7 +117,7 @@ table th {
 
 /* Responsive */
 
-@media (max-width:400px) {
+@media (max-width:450px) {
     .container-1-p {
         display: flex;
         justify-content: center;
