@@ -1,0 +1,117 @@
+body {
+    margin: 30px 70px
+}
+
+/* table */
+caption {
+    color: red;
+    font-weight: 700;
+    border: 2px solid green;
+    padding: 5px 0;
+    margin-bottom: 15px;
+}
+
+table {
+    text-align: center;   
+    border-color: magenta;
+    padding: 5px;
+}
+
+.container-1 {
+    border: 1px solid black;
+    display: inline-block;
+    padding: 10px;
+}
+
+table th, table td {
+    border-color: black;
+}
+
+table th {
+    background-color: yellow;
+}
+
+
+/* format */
+.namehs, .namecl, .hexcl, .rgbcl, .bgrcl {
+    padding: 5px 25px;
+}
+
+.hexcl, .rgbcl, .bgrcl {
+    width: 60px;
+}
+
+.stths {
+    padding: 5px 5px;
+}
+
+.stths-13, .stths-14, .stths-15, .stths-16 {
+    /* colspan in html */
+}
+
+
+/* colors */
+.bgrcl-1 {
+    background-color: rgb(0,20,1);
+}
+
+.bgrcl-2 {
+    background-color: rgb(0,20,2);
+}
+
+.bgrcl-3 {
+    background-color: rgb(0,20,3);
+}
+
+.bgrcl-4 {
+    background-color: rgb(0,20,4);
+}
+
+.bgrcl-5 {
+    background-color: rgb(0,20,5);
+}
+
+.bgrcl-6 {
+    background-color: rgb(0,20,6);
+}
+
+.bgrcl-7 {
+    background-color: rgb(0,20,7);
+}
+
+.bgrcl-8 {
+    background-color: rgb(0,20,8);
+}
+
+.bgrcl-9 {
+    background-color: rgb(0,20,9);
+}
+
+.bgrcl-10 {
+    background-color: rgb(0,20,10);
+}
+
+.bgrcl-11 {
+    background-color: rgb(0,20,11);
+}
+
+.bgrcl-12 {
+    background-color: rgb(0,20,12);
+}
+
+.bgrcl-13 {
+    background-color: rgb(0,20,13);
+}
+
+.bgrcl-14 {
+    background-color: rgb(0,20,14);
+}
+
+.bgrcl-15 {
+    background-color: rgb(0,20,15);
+}
+
+.bgrcl-16 {
+    background-color: rgb(0,20,16);
+}
+
