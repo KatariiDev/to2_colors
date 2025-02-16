@@ -9,12 +9,14 @@ caption {
     border: 2px solid green;
     padding: 5px 0;
     margin-bottom: 15px;
+    font-size: 200%;
 }
 
 table {
     text-align: center;   
     border-color: magenta;
     padding: 5px;
+    font-size: 20px;
 }
 
 .container-1 {
